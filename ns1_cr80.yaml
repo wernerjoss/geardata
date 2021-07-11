@@ -1,0 +1,14 @@
+# Honda NS1 mit CR80 Getriebe, HR=Dunlop 115
+IGtr:
+- '35:15'
+- '31:18'
+- '28:20'
+- '27:23'
+- '25:25'
+- '23:26'
+IP:
+- '70:17'
+ISek:
+- '48:13'
+RefRPM: 13500
+TyreCirc: 1.90
